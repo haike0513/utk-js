@@ -1,5 +1,5 @@
 {
-  "version": "0.0.13",
+  "version": "0.0.14",
   "author": "zenlink",
   "name": "@utk/sdk-router",
   "types": "./build/index.d.ts",
@@ -25,7 +25,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@utk/sdk-core": "workspace:0.0.12",
+    "@utk/sdk-core": "workspace:0.0.14",
     "jsbi": "^4.2.0"
   }
 }
